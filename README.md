@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+개발 블로그
+https://programming-review.tistory.com/
+
 <!--
 **psk910903/psk910903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
